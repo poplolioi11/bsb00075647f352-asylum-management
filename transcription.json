@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "work_key": "bsb00075647f352",
+    "title": "瘋人難防",
+    "edition": "0.1.0",
+    "language": "lzh",
+    "shelfmark": "L.sin. K 175-31/37 / bsb00075647, scan 352, 御七第50圖",
+    "reading_order": "source columns, ordered as printed",
+    "title_policy": "Stand-alone headings in extras, inline ones in their original column",
+    "version": "0.1.0",
+    "dataset_title": "瘋人難防（《點石齋畫報》御七第50圖，1895 年，巴伐利亞邦立圖書館） / Feng ren nan fang [An Incident at a Paris Asylum]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "法國巴黎城有瘋人"
+            },
+            {
+              "text": "院一所凡在內"
+            },
+            {
+              "text": "就醫者動至千餘"
+            },
+            {
+              "text": "名各以房禁之"
+            },
+            {
+              "text": "使不能發狂滋擾一"
+            },
+            {
+              "text": "日不知緣何失察"
+            },
+            {
+              "text": "各瘋人皆脫絆而出"
+            },
+            {
+              "text": "爭取院中刀斧"
+            },
+            {
+              "text": "向空亂舞更有躍上"
+            },
+            {
+              "text": "屋脊拋瓦礫以"
+            },
+            {
+              "text": "擊人者司事等奔"
+            },
+            {
+              "text": "避不遑頻受其"
+            },
+            {
+              "text": "害幸院門堅固牆壁"
+            }
+          ],
+          "extras": [
+            {
+              "type": "article-title",
+              "location": "篇題，分排依右起",
+              "text": "瘋人難防",
+              "rect": [
+                1968,
+                422,
+                2230,
+                567
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "峻高不至逃出"
+            },
+            {
+              "text": "院外旋為地"
+            },
+            {
+              "text": "方有司"
+            },
+            {
+              "text": "所聞即"
+            },
+            {
+              "text": "命救火局"
+            },
+            {
+              "text": "諸人駕水龍"
+            },
+            {
+              "text": "而至射之以水詎水懦"
+            },
+            {
+              "text": "易狎各瘋人不"
+            },
+            {
+              "text": "以為懼反以為喜手"
+            },
+            {
+              "text": "舞足蹈直衝而"
+            },
+            {
+              "text": "來乃改命礮兵一隊以"
+            },
+            {
+              "text": "有藥無彈之槍"
+            },
+            {
+              "text": "向之轟擊霎時間烟"
+            },
+            {
+              "text": "燄迷漫瘋人始"
+            },
+            {
+              "text": "狙伏一隅不敢復動繼"
+            },
+            {
+              "text": "迺使強有力者"
+            },
+            {
+              "text": "入院擒縛始得就獲仍"
+            },
+            {
+              "text": "歸禁所然則防範"
+            },
+            {
+              "text": "之道其可忽乎哉"
+            }
+          ],
+          "extras": [
+            {
+              "type": "form-mark",
+              "location": "原刊圖號",
+              "text": "五十",
+              "rect": [
+                36,
+                1919,
+                106,
+                2048
+              ]
+            },
+            {
+              "type": "form-mark",
+              "location": "原刊期碼",
+              "text": "御七",
+              "rect": [
+                37,
+                2275,
+                107,
+                2401
+              ]
+            },
+            {
+              "type": "artist-signature",
+              "location": "圖左下畫款",
+              "text": "友如",
+              "rect": [
+                127,
+                2261,
+                170,
+                2343
+              ]
+            },
+            {
+              "type": "artist-seal",
+              "location": "畫款下一方印",
+              "text": "",
+              "rect": [
+                120,
+                2341,
+                163,
+                2390
+              ]
+            },
+            {
+              "type": "printer-seal",
+              "location": "圖說末上下圓印",
+              "text": "",
+              "rect": [
+                157,
+                525,
+                225,
+                629
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 7,
+          "context": "水懦",
+          "candidates": [
+            "水懦",
+            "水濡"
+          ],
+          "note": "首錄懦，足旁墨連，左部當由獨立回圖判斷。"
+        },
+        {
+          "side": "left",
+          "column": 11,
+          "context": "礮",
+          "candidates": [
+            "礮",
+            "礟"
+          ],
+          "note": "原文火器名之歷史字形，右部交／爻筆勢近。"
+        },
+        {
+          "side": "left",
+          "column": 14,
+          "context": "燄迷漫",
+          "candidates": [
+            "燄迷漫",
+            "焰迷漫"
+          ],
+          "note": "保留原字燄讀，以館照判斷部件。"
+        },
+        {
+          "side": "left",
+          "column": 15,
+          "context": "狙伏",
+          "candidates": [
+            "狙伏",
+            "俎伏"
+          ],
+          "note": "首字左部寫法窄小，保留候讀。"
+        }
+      ],
+      "observations": "第352幅完整跨頁。右十三欄、左十九欄，共三十二欄；篇題、圖號、期碼、畫款與印記分記。",
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075647?page=352",
+      "iiif_canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075647/canvas/352",
+      "catalogue_page": 352,
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v3/bsb00075647_00352/full/2600,/0/default.jpg",
+      "sha256": "38fff47c3c738e8779a2bece4826cbe09c9d4da3a4874b5e97148b55dabda8a7",
+      "label": "御七第50圖",
+      "dimensions": [
+        2600,
+        2585
+      ],
+      "article_extent": [
+        24,
+        279,
+        2518,
+        2418
+      ],
+      "content_role": "complete-article",
+      "state": "transcribed"
+    }
+  ]
+}
