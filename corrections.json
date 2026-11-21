@@ -1,0 +1,129 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 3,
+  "changes": [
+    {
+      "image": 1,
+      "side": "right",
+      "column": 12,
+      "kind": "main",
+      "op": "replace",
+      "before": "避不遑頻受其",
+      "after": "避不遑頗受其",
+      "reason": "原字右見頁，左部筆畫如皮。從獨立稿讀頗。",
+      "source_bbox": [
+        24,
+        279,
+        2518,
+        2418
+      ],
+      "source_image_sha256": "38fff47c3c738e8779a2bece4826cbe09c9d4da3a4874b5e97148b55dabda8a7",
+      "canvas": "https://www.digitale-sammlungen.de/en/view/bsb00075647?page=352"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 2,
+      "kind": "main",
+      "op": "replace",
+      "before": "院外旋為地",
+      "after": "院外旋爲地",
+      "reason": "爪頭下一斜長筆，內屈末帶點，照另讀保留爲形。",
+      "source_bbox": [
+        24,
+        279,
+        2518,
+        2418
+      ],
+      "source_image_sha256": "38fff47c3c738e8779a2bece4826cbe09c9d4da3a4874b5e97148b55dabda8a7",
+      "canvas": "https://www.digitale-sammlungen.de/en/view/bsb00075647?page=352"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 9,
+      "kind": "main",
+      "op": "replace",
+      "before": "以為懼反以為喜手",
+      "after": "以爲懼反以爲喜手",
+      "reason": "本欄兩形同左2之爲。一欄內兩個字依同一原字形讀法。",
+      "source_bbox": [
+        24,
+        279,
+        2518,
+        2418
+      ],
+      "source_image_sha256": "38fff47c3c738e8779a2bece4826cbe09c9d4da3a4874b5e97148b55dabda8a7",
+      "canvas": "https://www.digitale-sammlungen.de/en/view/bsb00075647?page=352"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075647?page=352",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 11,
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075647?page=352",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 14,
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075647?page=352",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 15,
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075647?page=352",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 17,
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075647?page=352",
+      "status": "保留疑讀"
+    }
+  ],
+  "retained_readings": [
+    {
+      "side": "left",
+      "column": 1,
+      "reading": "峻高",
+      "reason": "第一字左部山、右部夋在版心側較細，與右末牆壁銜接。"
+    },
+    {
+      "side": "left",
+      "column": 11,
+      "reading": "礮",
+      "reason": "保留首錄及獨立稿所見右部交形。"
+    },
+    {
+      "side": "left",
+      "column": 16,
+      "reading": "迺",
+      "reason": "可辨外側辶，依刻形保存迺。"
+    },
+    {
+      "side": "left",
+      "location": "圖左下畫款",
+      "reading": "友如",
+      "reason": "兩字墨清，下面另見方印，印內字未穩辨。"
+    },
+    {
+      "side": "left",
+      "location": "圖說末上下圓印",
+      "reading": null,
+      "reason": "可辨相接兩圓，不擅補篆字。保留區位與印數。"
+    }
+  ]
+}

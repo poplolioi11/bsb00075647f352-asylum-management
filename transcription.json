@@ -2,14 +2,14 @@
   "metadata": {
     "work_key": "bsb00075647f352",
     "title": "瘋人難防",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "language": "lzh",
     "shelfmark": "L.sin. K 175-31/37 / bsb00075647, scan 352, 御七第50圖",
     "reading_order": "source columns, ordered as printed",
     "title_policy": "Stand-alone headings in extras, inline ones in their original column",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "瘋人難防（《點石齋畫報》御七第50圖，1895 年，巴伐利亞邦立圖書館） / Feng ren nan fang [An Incident at a Paris Asylum]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -56,7 +56,7 @@
               "text": "擊人者司事等奔"
             },
             {
-              "text": "避不遑頻受其"
+              "text": "避不遑頗受其"
             },
             {
               "text": "害幸院門堅固牆壁"
@@ -83,7 +83,7 @@
               "text": "峻高不至逃出"
             },
             {
-              "text": "院外旋為地"
+              "text": "院外旋爲地"
             },
             {
               "text": "方有司"
@@ -104,7 +104,7 @@
               "text": "易狎各瘋人不"
             },
             {
-              "text": "以為懼反以為喜手"
+              "text": "以爲懼反以爲喜手"
             },
             {
               "text": "舞足蹈直衝而"
@@ -205,7 +205,8 @@
             "水懦",
             "水濡"
           ],
-          "note": "首錄懦，足旁墨連，左部當由獨立回圖判斷。"
+          "note": "首錄懦，足旁墨連，左部當由獨立回圖判斷。",
+          "review_note": "兩位均暫讀懦。左部墨形近忄，候讀濡仍保留。"
         },
         {
           "side": "left",
@@ -225,7 +226,8 @@
             "燄迷漫",
             "焰迷漫"
           ],
-          "note": "保留原字燄讀，以館照判斷部件。"
+          "note": "保留原字燄讀，以館照判斷部件。",
+          "review_note": "第一字左凸右火筆形近，據首錄及獨立稿保留燄。"
         },
         {
           "side": "left",
@@ -236,6 +238,16 @@
             "俎伏"
           ],
           "note": "首字左部寫法窄小，保留候讀。"
+        },
+        {
+          "side": "left",
+          "column": 17,
+          "context": "就獲",
+          "candidates": [
+            "就獲",
+            "就擒"
+          ],
+          "note": "首錄及獨立稿均讀就獲，末字密，據上下皴筆暫存。"
         }
       ],
       "observations": "第352幅完整跨頁。右十三欄、左十九欄，共三十二欄；篇題、圖號、期碼、畫款與印記分記。",

@@ -4,11 +4,11 @@
 
 The Dianshizhai Pictorial describes an unnamed asylum in Paris. It reports an estimate of people seeking care, the use of separate rooms, the movement of residents out of those rooms during an incident, and the institutional and official response. The facility and incident have not been independently identified in French sources. The holding library already supplies its scan and machine OCR. This edition records complete article boundaries and source reading order, plus the column divisions, labels, marks, and uncertain readings.
 
-## V0.1.0
+## V0.2.0
 
-第352幅完整跨頁。右十三欄、左十九欄，共三十二欄；篇題、圖號、期碼、畫款與印記分記。此版固定 AI 輔助初錄。疑讀保留定位，尚未經人類全文雙校。
+第352幅完整跨頁。右十三欄、左十九欄，共三十二欄；篇題、圖號、期碼、畫款與印記分記。比對獨立原圖讀法後回圖裁定，採用 3 筆訂正，留存疑讀定位。
 
-One holding-library scan, including the complete article's 32 body columns and separate labels, marks, and seals. First AI-assisted reading with marked uncertainties. Full double proofreading by humans is pending.
+One holding-library scan, including the complete article's 32 body columns and separate labels, marks, and seals. An independent image reading was compared with the first transcription. Source-image adjudication adopted 3 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 
